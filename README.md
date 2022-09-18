@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katiehaber
-- 🌱 I’m currently learning computer science at Raritan Valley Community College
+- 🌱 I’m currently studying Computer Science at Raritan Valley Community College
 - 📫 How to reach me: khab5398@gmail.com
 
 <!---
